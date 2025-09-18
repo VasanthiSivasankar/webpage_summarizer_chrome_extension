@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+p {
+    margin-top: 10px;
+    font-size: 14px;
+}
