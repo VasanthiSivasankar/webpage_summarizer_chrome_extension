@@ -119,12 +119,11 @@ The extension is now ready to use.
 ---
 
 ## Screenshots
+<img width="595" height="500" alt="gistify1" src="https://github.com/user-attachments/assets/753e94df-d892-4670-baf4-7aaaf9529c72" />
 
-Add screenshots of:
-
-* Extension popup
-* Generated summary
-* Extension running on a webpage
+<img width="1911" height="968" alt="gistify2" src="https://github.com/user-attachments/assets/523d0cf3-dd6f-4905-9462-2b73f47727d9" />
+<img width="1915" height="964" alt="gistify4" src="https://github.com/user-attachments/assets/f78e87d0-f786-4fc2-bc2e-7b680aacd368" />
+<img width="1917" height="970" alt="gistify3" src="https://github.com/user-attachments/assets/8996b587-1632-4a3d-a26b-a837984fe02f" />
 
 ---
 
